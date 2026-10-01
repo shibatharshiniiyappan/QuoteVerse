@@ -202,5 +202,5 @@ npm.cmd run lint
 
 ## Author
 
-- **Name**: [Your Name]
-- **GitHub**: [@YourUsername](https://github.com/YourUsername)
+- **Name**: Shiba Tharshini
+- **GitHub**: [shibatharshiniiyappan](https://github.com/shibatharshiniiyappan)
